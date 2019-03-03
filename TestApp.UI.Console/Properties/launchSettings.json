@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestApp.UI.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "../../../unsorted-name-list.txt"
+    }
+  }
+}

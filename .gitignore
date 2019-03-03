@@ -31,3 +31,4 @@
 /TestApp.UI.Console/bin/Release/netcoreapp2.1
 /TestApp.UI.Console.Interfaces/bin/Release/netcoreapp2.1
 /TestApp.UI.Console.Services/bin/Release/netcoreapp2.1
+/.vs/config
