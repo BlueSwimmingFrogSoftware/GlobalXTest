@@ -1,0 +1,6 @@
+User Guide name-sorter 
+
+name-sorter command line utility sorts fullnames by last name supplied in a text file
+
+Usage:
+name-sorter filepath

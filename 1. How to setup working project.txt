@@ -1,0 +1,7 @@
+How to setup working project
+
+1. Download source code from github
+2. Update Visual Studio to version 15.9.7
+3. Update .Net Core framework to version 2.1
+4. Load the project
+4. F5

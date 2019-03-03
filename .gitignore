@@ -3,3 +3,23 @@
 ################################################################################
 
 /.vs/TestApp
+/TestApp.DI/bin/Debug/netcoreapp2.1
+/TestApp.DI/obj
+/TestApp.Domain/bin/Debug/netcoreapp2.1
+/TestApp.Domain/obj
+/TestApp.Interfaces/bin/Debug/netcoreapp2.1
+/TestApp.Interfaces/obj
+/TestApp.Model/bin/Debug/netcoreapp2.1
+/TestApp.Model/obj
+/TestApp.Services/bin/Debug/netcoreapp2.1
+/TestApp.Services/obj
+/TestApp.Services.Tests/bin/Debug/netcoreapp2.1
+/TestApp.Services.Tests/obj
+/TestApp.UI.Console/bin/Debug/netcoreapp2.1
+/TestApp.UI.Console/obj
+/TestApp.UI.Console.Interfaces/bin/Debug/netcoreapp2.1
+/TestApp.UI.Console.Interfaces/obj
+/TestApp.UI.Console.Services/bin/Debug/netcoreapp2.1
+/TestApp.UI.Console.Services/obj
+/TestApp.UI.Console.Services.Tests/bin/Debug/netcoreapp2.1
+/TestApp.UI.Console.Services.Tests/obj

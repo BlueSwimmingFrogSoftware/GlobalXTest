@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TestApp.DI\TestApp.DI.csproj" />
+    <ProjectReference Include="..\TestApp.Interfaces\TestApp.Interfaces.csproj" />
+    <ProjectReference Include="..\TestApp.UI.Console.Interfaces\TestApp.UI.Console.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

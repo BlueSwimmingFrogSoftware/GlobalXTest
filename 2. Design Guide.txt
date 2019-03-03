@@ -1,0 +1,11 @@
+Application Design Guide
+
+name-sorter is a console application developed in .Net Core 2.1
+
+Solution structure
+
+0. Documentation - documentation
+1. DI - dependency injection container defintions
+2. Domain - domain classes
+3. Business - business logic implementation, service classes
+4. UI - UI classes, view model and ui services
